@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi 👋
 
-<!--
-**iakmds/iakmds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am currently learning:
 
-Here are some ideas to get you started:
+<a href="https://flutter.dev">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</a>
+<a href="https://dart.dev">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am using:
+
+<a href="https://linuxmint.com">
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+</a>
+  
+### Most currently used languages:
+
+<a href="https://github.com/iakmds">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakmds"/>
+</a>
