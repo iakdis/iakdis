@@ -1,6 +1,6 @@
-# Hi 👋
+# Hello World 👋
 
-### I am currently learning:
+### I am learning:
 
 <a href="https://flutter.dev">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 </a>
   
-### Most currently used languages:
+### Some stats:
 
 <a href="https://github.com/iakmds">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakmds"/>
