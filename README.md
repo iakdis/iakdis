@@ -18,5 +18,5 @@
 
 **Some stats:**
 <br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iakmds&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/iakmds) | [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakmds&layout=compact&theme=buefy&hide_border=true)](https://github.com/iakmds)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iakmds&show_icons=true&theme=buefy&hide_border=true)](https://github.com/iakmds) | [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakmds&layout=compact&theme=buefy&hide_border=true)](https://github.com/iakmds)
 | - | - |
