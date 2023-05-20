@@ -1,6 +1,6 @@
-## Hello everyone!
+## Hello there!
 
-### I'm currently working on [BuhoCMS](https://github.com/iakmds/buhocms) and [Libre Camera](https://github.com/iakmds/librecamera). On top of that...
+### I'm currently working on [BuhoCMS](https://github.com/iakmds/buhocms) and [Libre Camera](https://github.com/iakmds/librecamera). 
 
 <br>
 
@@ -21,10 +21,21 @@
 <a href="https://vscodium.com">
   <img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=vscodium&logoColor=white"/>
 </a>
+<a href="https://signal.org">
+  <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/>
+</a>
 
 <br>
   
 **Some stats:**
 <br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iakmds&show_icons=true&theme=buefy&hide_border=true)](https://github.com/iakmds) | [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakmds&layout=compact&theme=buefy&hide_border=true)](https://github.com/iakmds)
-| - | - |
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=iakmds&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"/>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=iakmds&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iakmds&show_icons=true" />
+</picture>
