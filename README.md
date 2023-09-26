@@ -1,10 +1,6 @@
 ## Hello there!
 
-### I'm currently working on [BuhoCMS](https://github.com/iakmds/buhocms) and [Libre Camera](https://github.com/iakmds/librecamera). 
-
-<br>
-
-**I am learning:**
+**I'm learning:**
 <br>
 <a href="https://flutter.dev">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -13,7 +9,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </a>
 
-**I am using:**
+**I'm using:**
 <br>
 <a href="https://linuxmint.com">
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
