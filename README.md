@@ -1,7 +1,10 @@
 ## Hello there!
 
-**I'm learning:**
-<br>
+**I'm using:**
+
+<a href="https://linuxmint.com">
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+</a>
 <a href="https://flutter.dev">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </a>
@@ -9,21 +12,10 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </a>
 
-**I'm using:**
 <br>
-<a href="https://linuxmint.com">
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
-</a>
-<a href="https://vscodium.com">
-  <img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=vscodium&logoColor=white"/>
-</a>
-<a href="https://signal.org">
-  <img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white"/>
-</a>
-
 <br>
   
-**Some stats:**
+**Stats:**
 <br>
 
 <picture>
